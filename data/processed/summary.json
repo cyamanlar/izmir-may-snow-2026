@@ -1,0 +1,22 @@
+{
+  "izmir_mean_bias_tmin": -1.2,
+  "izmir_mae_tmin": 1.5,
+  "izmir_mean_bias_tmax": -3.8,
+  "izmir_mae_tmax": 3.8,
+  "izmir_grid_height_effect_c": 1.8,
+  "bozdag_cell_elev_m": 685,
+  "event_day_1100m_tmin_tmax": [
+    3.1,
+    5.2
+  ],
+  "event_day_ski_centre_tmin_tmax": [
+    0.2,
+    2.3
+  ],
+  "tsms_ski_centre_forecast": [
+    0,
+    2
+  ],
+  "event_day_precip_mm": 16.5,
+  "event_day_snowfall_mm_we": 0.0
+}

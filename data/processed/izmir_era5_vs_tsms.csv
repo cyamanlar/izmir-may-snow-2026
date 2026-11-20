@@ -1,0 +1,6 @@
+date,era5_cell_elev_m,tmin_c_era5,tmax_c_era5,precip_mm,tmin_c_tsms,tmax_c_tsms,source,bias_tmin,bias_tmax
+2026-04-30,300,9.3,25.4,0.0,,,Sözcü (MGM atıfı),,
+2026-05-01,300,9.6,16.3,3.5,12.0,19.0,CNN Türk,-2.4,-2.7
+2026-05-02,300,8.4,13.5,0.0,8.0,19.0,TRT Haber,0.4,-5.5
+2026-05-03,300,7.4,9.2,13.6,9.0,15.0,Yeni İzmir (MGM verisi),-1.6,-5.8
+2026-05-04,300,7.7,15.7,0.9,,17.0,Ekonomim (MGM atıfı),,-1.3

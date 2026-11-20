@@ -1,0 +1,9 @@
+# third-party charts downloaded by src/fetch_maps.py (copyright DWD / Wetter3 / NASA)
+maps/
+# ERA5 downloads from the CDS pipeline
+*.nc
+*.nc_dir/
+sekiller/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

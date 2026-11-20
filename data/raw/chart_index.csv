@@ -1,0 +1,29 @@
+date,time,level,product,source,url
+2026-05-01,12 UTC,surface,DWD surface analysis with fronts (Bodenanalyse),DWD via Wetter3,https://www.wetter3.de/Archiv/GFS/2026050112_0.gif
+2026-05-01,12 UTC,850hPa,GFS analysis: 850 hPa geopotential (gpdam) + temperature,Wetter3,https://www.wetter3.de/Archiv/GFS/2026050112_25.gif
+2026-05-01,12 UTC,700hPa,GFS analysis: 700 hPa geopotential (gpdam) + temperature,Wetter3,https://www.wetter3.de/Archiv/GFS/2026050112_26.gif
+2026-05-01,12 UTC,500hPa,GFS analysis: 500 hPa geopotential (gpdam) + temperature,Wetter3,https://www.wetter3.de/Archiv/GFS/2026050112_27.gif
+2026-05-01,12 UTC,300hPa,"GFS analysis: 300 hPa wind (kt), divergence, geopotential",Wetter3,https://www.wetter3.de/Archiv/GFS/2026050112_38.gif
+2026-05-01,12 UTC,500hPa_surface,GFS analysis: 500 hPa geopotential + surface pressure + relative topography,Wetter3,https://www.wetter3.de/Archiv/GFS/2026050112_1.gif
+2026-05-01,morning overpass,satellite,"MODIS Terra true colour, Aegean & western Türkiye",NASA Worldview Snapshots,"https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-05-01T00:00:00Z&BBOX=34.5,19.5,43.5,32.5&CRS=EPSG:4326&LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor,Coastlines_15m&WRAP=day,x&FORMAT=image/jpeg&WIDTH=1000&HEIGHT=700"
+2026-05-02,12 UTC,surface,DWD surface analysis with fronts (Bodenanalyse),DWD via Wetter3,https://www.wetter3.de/Archiv/GFS/2026050212_0.gif
+2026-05-02,12 UTC,850hPa,GFS analysis: 850 hPa geopotential (gpdam) + temperature,Wetter3,https://www.wetter3.de/Archiv/GFS/2026050212_25.gif
+2026-05-02,12 UTC,700hPa,GFS analysis: 700 hPa geopotential (gpdam) + temperature,Wetter3,https://www.wetter3.de/Archiv/GFS/2026050212_26.gif
+2026-05-02,12 UTC,500hPa,GFS analysis: 500 hPa geopotential (gpdam) + temperature,Wetter3,https://www.wetter3.de/Archiv/GFS/2026050212_27.gif
+2026-05-02,12 UTC,300hPa,"GFS analysis: 300 hPa wind (kt), divergence, geopotential",Wetter3,https://www.wetter3.de/Archiv/GFS/2026050212_38.gif
+2026-05-02,12 UTC,500hPa_surface,GFS analysis: 500 hPa geopotential + surface pressure + relative topography,Wetter3,https://www.wetter3.de/Archiv/GFS/2026050212_1.gif
+2026-05-02,morning overpass,satellite,"MODIS Terra true colour, Aegean & western Türkiye",NASA Worldview Snapshots,"https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-05-02T00:00:00Z&BBOX=34.5,19.5,43.5,32.5&CRS=EPSG:4326&LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor,Coastlines_15m&WRAP=day,x&FORMAT=image/jpeg&WIDTH=1000&HEIGHT=700"
+2026-05-03,12 UTC,surface,DWD surface analysis with fronts (Bodenanalyse),DWD via Wetter3,https://www.wetter3.de/Archiv/GFS/2026050312_0.gif
+2026-05-03,12 UTC,850hPa,GFS analysis: 850 hPa geopotential (gpdam) + temperature,Wetter3,https://www.wetter3.de/Archiv/GFS/2026050312_25.gif
+2026-05-03,12 UTC,700hPa,GFS analysis: 700 hPa geopotential (gpdam) + temperature,Wetter3,https://www.wetter3.de/Archiv/GFS/2026050312_26.gif
+2026-05-03,12 UTC,500hPa,GFS analysis: 500 hPa geopotential (gpdam) + temperature,Wetter3,https://www.wetter3.de/Archiv/GFS/2026050312_27.gif
+2026-05-03,12 UTC,300hPa,"GFS analysis: 300 hPa wind (kt), divergence, geopotential",Wetter3,https://www.wetter3.de/Archiv/GFS/2026050312_38.gif
+2026-05-03,12 UTC,500hPa_surface,GFS analysis: 500 hPa geopotential + surface pressure + relative topography,Wetter3,https://www.wetter3.de/Archiv/GFS/2026050312_1.gif
+2026-05-03,morning overpass,satellite,"MODIS Terra true colour, Aegean & western Türkiye",NASA Worldview Snapshots,"https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-05-03T00:00:00Z&BBOX=34.5,19.5,43.5,32.5&CRS=EPSG:4326&LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor,Coastlines_15m&WRAP=day,x&FORMAT=image/jpeg&WIDTH=1000&HEIGHT=700"
+2026-05-04,12 UTC,surface,DWD surface analysis with fronts (Bodenanalyse),DWD via Wetter3,https://www.wetter3.de/Archiv/GFS/2026050412_0.gif
+2026-05-04,12 UTC,850hPa,GFS analysis: 850 hPa geopotential (gpdam) + temperature,Wetter3,https://www.wetter3.de/Archiv/GFS/2026050412_25.gif
+2026-05-04,12 UTC,700hPa,GFS analysis: 700 hPa geopotential (gpdam) + temperature,Wetter3,https://www.wetter3.de/Archiv/GFS/2026050412_26.gif
+2026-05-04,12 UTC,500hPa,GFS analysis: 500 hPa geopotential (gpdam) + temperature,Wetter3,https://www.wetter3.de/Archiv/GFS/2026050412_27.gif
+2026-05-04,12 UTC,300hPa,"GFS analysis: 300 hPa wind (kt), divergence, geopotential",Wetter3,https://www.wetter3.de/Archiv/GFS/2026050412_38.gif
+2026-05-04,12 UTC,500hPa_surface,GFS analysis: 500 hPa geopotential + surface pressure + relative topography,Wetter3,https://www.wetter3.de/Archiv/GFS/2026050412_1.gif
+2026-05-04,morning overpass,satellite,"MODIS Terra true colour, Aegean & western Türkiye",NASA Worldview Snapshots,"https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-05-04T00:00:00Z&BBOX=34.5,19.5,43.5,32.5&CRS=EPSG:4326&LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor,Coastlines_15m&WRAP=day,x&FORMAT=image/jpeg&WIDTH=1000&HEIGHT=700"

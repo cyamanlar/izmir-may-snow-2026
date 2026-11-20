@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+requests>=2.31
+openpyxl>=3.1
+# optional: full ERA5 download + ERA5 maps (src/era5_cds_pipeline.py)
+# cdsapi xarray netCDF4 h5netcdf scipy cartopy metpy python-docx pillow
